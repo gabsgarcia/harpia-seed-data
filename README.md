@@ -1,11 +1,7 @@
 # harpia-seed-data
 
 JSONs estaticos (Camara dos Deputados + TSE) consumidos pelo db/seeds.rb dos alunos.
-Gerados pela rake task em https://github.com/gabsgarcia/harpia_db
 
-BASE_URL = https://raw.githubusercontent.com/gabsgarcia/harpia-seed-data/main/db/seeds
-<<<<<<< Updated upstream
-=======
 
 Este repositório só tem os dados. O template do `db/seeds.rb` que os alunos
 colam no projeto deles está em `db/seeds.rb` na branch `main` de
@@ -15,4 +11,3 @@ Votacao, Voto). As outras 4 (Despesa, Proposicao, Candidato2026,
 MotivoCassacao) vêm como bloco bônus comentado no mesmo arquivo, pra quem
 terminar o MVP cedo. Os models e migrations são conteúdo de aula — ver
 `modelo-referencia` no harpia_db para o gabarito.
->>>>>>> Stashed changes

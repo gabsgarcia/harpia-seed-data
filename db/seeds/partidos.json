@@ -1,5 +1,9 @@
 [
   {
+    "sigla": "AGIR",
+    "nome": "Agir"
+  },
+  {
     "id": 36898,
     "sigla": "AVANTE",
     "nome": "Avante",
@@ -18,6 +22,10 @@
     "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/37902"
   },
   {
+    "sigla": "DEMOCRATA",
+    "nome": "Democrata"
+  },
+  {
     "id": 36899,
     "sigla": "MDB",
     "nome": "Movimento Democrático Brasileiro",
@@ -30,6 +38,10 @@
     "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38011"
   },
   {
+    "sigla": "MOBILIZA",
+    "nome": "Mobilização Nacional"
+  },
+  {
     "id": 37901,
     "sigla": "NOVO",
     "nome": "Partido Novo",
@@ -40,6 +52,10 @@
     "sigla": "PCdoB",
     "nome": "Partido Comunista do Brasil",
     "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36779"
+  },
+  {
+    "sigla": "PCO",
+    "nome": "Partido da Causa Operária"
   },
   {
     "id": 36786,
@@ -96,6 +112,10 @@
     "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839"
   },
   {
+    "sigla": "PSTU",
+    "nome": "Partido Socialista dos Trabalhadores Unificado"
+  },
+  {
     "id": 36844,
     "sigla": "PT",
     "nome": "Partido dos Trabalhadores",
@@ -130,5 +150,9 @@
     "sigla": "UNIÃO",
     "nome": "União Brasil",
     "uri": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009"
+  },
+  {
+    "sigla": "UP",
+    "nome": "Unidade Popular"
   }
 ]
