@@ -11,3 +11,4 @@ Votacao, Voto). As outras 4 (Despesa, Proposicao, Candidato2026,
 MotivoCassacao) vêm como bloco bônus comentado no mesmo arquivo, pra quem
 terminar o MVP cedo. Os models e migrations são conteúdo de aula — ver
 `modelo-referencia` no harpia_db para o gabarito.
+Gerados pela rake task em outro repo
