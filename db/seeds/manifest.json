@@ -2,7 +2,7 @@
   "arquivos": {
     "candidatos_2026.json": {
       "registros": 7782,
-      "atualizado_em": "2026-09-10T02:29:15Z"
+      "atualizado_em": "2026-10-06T21:53:11Z"
     },
     "motivo_cassacao.json": {
       "registros": 0,
@@ -10,11 +10,11 @@
     },
     "partidos.json": {
       "registros": 22,
-      "atualizado_em": "2026-09-09T20:00:02Z"
+      "atualizado_em": "2026-10-06T21:53:11Z"
     },
     "deputados.json": {
       "registros": 513,
-      "atualizado_em": "2026-09-09T20:40:15Z"
+      "atualizado_em": "2026-10-06T21:53:11Z"
     },
     "votacoes.json": {
       "registros": 5920,
@@ -33,5 +33,5 @@
       "atualizado_em": "2026-09-09T23:00:00Z"
     }
   },
-  "gerado_em": "2026-09-10T02:29:15Z"
+  "gerado_em": "2026-10-06T21:53:11Z"
 }
